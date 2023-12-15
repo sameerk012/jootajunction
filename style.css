@@ -21,8 +21,6 @@ font-family: 'Poppins', sans-serif;
     color: var(--black);
     font-family: 'Ubuntu', sans-serif;
     font-family: 'Poppins', sans-serif;
-    background-color: var(--black);
-    color: white;
 }
 body{
     width: 100%;
@@ -129,7 +127,6 @@ body{
 }
 .card *{
     color: var(--black);
-    color: white;
 }
 .card h1{
     font-size: 4vh;
